@@ -155,11 +155,11 @@ Partial Class Form1
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(446, 83)
+        Me.Label8.Location = New System.Drawing.Point(419, 80)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(39, 13)
+        Me.Label8.Size = New System.Drawing.Size(88, 13)
         Me.Label8.TabIndex = 14
-        Me.Label8.Text = "Label8"
+        Me.Label8.Text = "Expense Tracker"
         '
         'Button1
         '
